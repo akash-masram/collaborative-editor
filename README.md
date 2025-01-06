@@ -18,4 +18,4 @@ This project is a real-time collaborative text editor built using **Liveblocks**
 
 ## 🌐 Live Version
 
-Check out the live version of the project [here](https://your-live-version-link.vercel.app).
+Check out the live version of the project [here](https://collaborative-editor-cyzhrnu50-akash-masrams-projects.vercel.app/sign-in).
